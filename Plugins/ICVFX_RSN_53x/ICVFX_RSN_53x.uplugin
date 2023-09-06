@@ -1,0 +1,255 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ICVFX_RSN_53x",
+	"Description": "Conveniently collects plugins for In-Camera VFX, RSN, adds additional plugins to ICVFX collection, UE 5.3.x",
+	"Category": "RSN",
+	"CreatedBy": "Roman Schoissengeier Nagel",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "AjaMedia",
+			"Enabled": true
+		},
+		{
+			"Name": "BlackmagicMedia",
+			"Enabled": true
+		},
+		{
+			"Name": "CameraCalibration",
+			"Enabled": true
+		},
+		{
+			"Name": "Composure",
+			"Enabled": true
+		},
+		{
+			"Name": "ColorCorrectRegions",
+			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
+		},
+		{
+			"Name": "LevelSnapshots",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkOverNDisplay",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkLens",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		},
+		{
+			"Name": "MultiUserTakes",
+			"Enabled": true
+		},
+		{
+			"Name": "nDisplay",
+			"Enabled": true
+		},
+		{
+			"Name": "OSC",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenColorIO",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControl",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlWebInterface",
+			"Enabled": true
+		},
+		{
+			"Name": "StageMonitoring",
+			"Enabled": true
+		},
+		{
+			"Name": "Switchboard",
+			"Enabled": true
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
+		},
+		{
+			"Name": "TimedDataMonitor",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "ConsoleVariables",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualProductionUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicStageApp",
+			"Enabled": true
+		},
+		{
+			"Name": "RivermaxMedia",
+			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
+		},
+		{
+			"Name": "CameraCalibrationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaCompositing",
+			"Enabled": true
+		},
+		{
+			"Name": "CompositePlane",
+			"Enabled": true
+		},
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaIOFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "MediaPlate",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenCVLensDistortion",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenCV",
+			"Enabled": true
+		},
+		{
+			"Name": "nDisplayModularFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "MultiUserServer",
+			"Enabled": true
+		},
+		{
+			"Name": "DisplayClusterLaunch",
+			"Enabled": true
+		},
+		{
+			"Name": "LedWallCalibration",
+			"Enabled": true
+		},
+		{
+			"Name": "SequencerPlaylists",
+			"Enabled": true
+		},
+		{
+			"Name": "TextureShare",
+			"Enabled": true
+		},
+		{
+			"Name": "ImagePlate",
+			"Enabled": true
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "MoviePipelineMaskRenderPass",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolOSC",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "CineCameraRigs",
+			"Enabled": true
+		},
+		{
+			"Name": "CineCameraSceneCapture",
+			"Enabled": true
+		},
+		{
+			"Name": "RivermaxCore",
+			"Enabled": true
+		},
+		{
+			"Name": "RivermaxSync",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualCameraCore",
+			"Enabled": true
+		}
+	],
+	"IsExperimentalVersion": false,
+	"DisallowedPlugins": [
+		"RenderDocPlugin"
+	]
+}

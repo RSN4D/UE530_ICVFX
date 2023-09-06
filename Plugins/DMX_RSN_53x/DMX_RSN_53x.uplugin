@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DMX_RSN_53x",
+	"Description": "Collects all DMX plugins",
+	"Category": "RSN",
+	"CreatedBy": "Roman Schoissengeier Nagel",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "DMXProtocol",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXPixelMapping",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXModularFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXFixtures",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXControlConsole",
+			"Enabled": true
+		},
+		{
+			"Name": "DMXDisplayCluster",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteControlProtocolDMX",
+			"Enabled": true
+		}
+	]
+}
