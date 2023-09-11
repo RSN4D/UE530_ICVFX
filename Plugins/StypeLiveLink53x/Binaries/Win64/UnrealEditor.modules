@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"StypeLiveLink": "UnrealEditor-StypeLiveLink.dll",
+		"StypeLiveLinkEditor": "UnrealEditor-StypeLiveLinkEditor.dll"
+	}
+}

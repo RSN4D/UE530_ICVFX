@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StypeLiveLink.cpp.obj": [
+			"StypeLiveLink.init.gen.cpp.obj",
+			"StypeLiveLinkFactory.gen.cpp.obj",
+			"StypeLiveLinkSource.gen.cpp.obj",
+			"StypeLiveLinkSourceSettings.gen.cpp.obj",
+			"StypeRole.gen.cpp.obj",
+			"StypeTypes.gen.cpp.obj",
+			"StypeLiveLink.cpp.obj",
+			"StypeLiveLinkController.cpp.obj",
+			"StypeLiveLinkFactory.cpp.obj",
+			"StypeLiveLinkSource.cpp.obj",
+			"StypeRole.cpp.obj",
+			"StypeTimingEstimator.cpp.obj"
+		]
+	}
+}

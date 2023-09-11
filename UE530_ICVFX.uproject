@@ -28,6 +28,10 @@
 		{
 			"Name": "DisplayClusterLaunch",
 			"Enabled": true
+		},
+		{
+			"Name": "StypeLiveLink53x",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

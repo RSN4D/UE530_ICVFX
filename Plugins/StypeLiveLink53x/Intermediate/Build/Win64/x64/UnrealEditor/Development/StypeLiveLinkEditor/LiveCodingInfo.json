@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StypeLiveLinkEditor.cpp.obj": [
+			"StypeLiveLinkEditorModule.cpp.obj",
+			"StypeLiveLinkSourcePanel.cpp.obj"
+		]
+	}
+}

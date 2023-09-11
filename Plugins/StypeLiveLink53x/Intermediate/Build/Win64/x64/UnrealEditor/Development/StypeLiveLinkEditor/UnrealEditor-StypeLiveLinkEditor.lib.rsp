@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StypeLiveLinkEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\UE53x_CPP\Intermediate\Build\Win64\x64\UE53x_CPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:\GitHub\UE53x_CPP\Plugins\StypeLiveLink53x\Intermediate\Build\Win64\x64\UnrealEditor\Development\StypeLiveLinkEditor\Module.StypeLiveLinkEditor.cpp.obj"
+"D:\GitHub\UE53x_CPP\Plugins\StypeLiveLink53x\Intermediate\Build\Win64\x64\UnrealEditor\Development\StypeLiveLinkEditor\Default.rc2.res"
+/OUT:"D:\GitHub\UE53x_CPP\Plugins\StypeLiveLink53x\Intermediate\Build\Win64\x64\UnrealEditor\Development\StypeLiveLinkEditor\UnrealEditor-StypeLiveLinkEditor.lib"
