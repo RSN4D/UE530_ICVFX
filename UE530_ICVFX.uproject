@@ -32,6 +32,10 @@
 		{
 			"Name": "StypeLiveLink53x",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkFreeD",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
